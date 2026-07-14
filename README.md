@@ -1,4 +1,4 @@
-## Lab Schedule
+## Algorithm & Data Structure Lab
 
 | Lab | Date     | Task |
 |:---:|:--------:|------|
